@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Extensão 1",
+	"version": "1.0",
+	"description": "Extensão 1 de Exemplo",
+	"browser_action":   {
+		"default_title":"Extensao 1",
+		"default_icon": "resources/images/icon.png",
+		"default_popup": "popup.html"
+	},
+	"icons":{
+		"128":"resources/images/icon_128.png"
+	}
+}
+
